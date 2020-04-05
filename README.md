@@ -1,4 +1,4 @@
 # Mail
-发送邮件,javamail实现.
+javamail实现邮件发送...
 
 
